@@ -1,2 +1,2 @@
-# Neseneye-Y-nelik-Programlama-devleri
+# Neseneye-Yonelik-Programlama-Odevleri
 Ödevler C#
